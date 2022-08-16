@@ -2,8 +2,8 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Sehore ,Madhya Pradesh (India)</h3>
 
 <img
-  src="/path/to/img.jpg"
-  alt="Alt text"
+  src="[/path/to/img.jpg](https://www.scrolldroll.com/wp-content/uploads/2020/07/Chhichhore-Dialogues-6.jpg)"
+  alt="Chhichhore"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
