@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naresh Rajput</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sehore ,Madhya Pradesh (India)</h3>
 
-<img
-  src="[/path/to/img.jpg](https://www.scrolldroll.com/wp-content/uploads/2020/07/Chhichhore-Dialogues-6.jpg)"
-  alt="Chhichhore">
+
+  [/path/to/img.jpg](https://www.scrolldroll.com/wp-content/uploads/2020/07/Chhichhore-Dialogues-6.jpg)
+
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
