@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naresh Rajput</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sehore ,Madhya Pradesh (India)</h3>
 
-<iframe src="https://giphy.com/embed/5Ivz8uxHriaAw" width="480" height="203" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/panda-5Ivz8uxHriaAw">via GIPHY</a></p>
+![Farmers Market Finder - Animated gif demo](demo/demo.gif)
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
