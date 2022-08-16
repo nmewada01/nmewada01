@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naresh Rajput</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sehore ,Madhya Pradesh (India)</h3>
 
-![Alt text](name_of_your_gif_file.gif)
+<img
+  src="/path/to/img.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
