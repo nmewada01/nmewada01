@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naresh Rajput</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sehore ,Madhya Pradesh (India)</h3>
 
-![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
+[![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)](https://media0.giphy.com/media/dxn6fRlTIShoeBr69N/200w.webp?cid=dda24d50uw49vyzl13ct4bsagwfxu67v68xnzfi8jyjajjl2&rid=200w.webp&ct=g)
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
