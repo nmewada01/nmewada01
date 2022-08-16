@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Sehore ,Madhya Pradesh (India)</h3>
 
 
-  [/path/to/img.jpg](https://www.scrolldroll.com/wp-content/uploads/2020/07/Chhichhore-Dialogues-6.jpg)
+![training-5822607_1280](https://user-images.githubusercontent.com/101567054/184976708-93ab09c1-e21b-4101-a021-710c57dca522.png)
 
 
 - 🔭 I’m currently working on **Full Stack Web Development**
