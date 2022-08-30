@@ -4,6 +4,8 @@
 
 ![training-5822607_1280](https://user-images.githubusercontent.com/101567054/184976708-93ab09c1-e21b-4101-a021-710c57dca522.png)
 
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/713a036acdf4c2ff01667ba3d94d836acc5c83c7573dee58ad953df194739c38/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68697474706174656c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/713a036acdf4c2ff01667ba3d94d836acc5c83c7573dee58ad953df194739c38/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68697474706174656c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="hittpatel" data-canonical-src="https://komarev.com/ghpvc/?username=hittpatel&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
