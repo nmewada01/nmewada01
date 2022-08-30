@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Naresh Rajput</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sehore ,Madhya Pradesh (India)</h3>
 
-![Sample photo](https://user-images.githubusercontent.com/101567054/187417954-2a277c57-4426-4ce0-9e47-3d3f64dea8e6.png)
+
+
+![My quote](https://user-images.githubusercontent.com/101567054/187420702-2000c192-0efb-475e-8b23-3b66d8f1edda.jpg)
+
 
 
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/713a036acdf4c2ff01667ba3d94d836acc5c83c7573dee58ad953df194739c38/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68697474706174656c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/713a036acdf4c2ff01667ba3d94d836acc5c83c7573dee58ad953df194739c38/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68697474706174656c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="hittpatel" data-canonical-src="https://komarev.com/ghpvc/?username=nmewada01&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
