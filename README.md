@@ -65,6 +65,7 @@
 <a href="https://www.hackerrank.com/nareshmewada014" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 
 
+<p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/db5fc32067a33491f1a175ebe51ee074bc8e5ed0ef5d3670a9eaf779fad28f85/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7368756268616d30343432" alt="shubham0442" data-canonical-src="https://github-profile-trophy.vercel.app/?username=shubham0442" style="max-width: 100%;"></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmewada01&show_icons=true&locale=en&layout=compact" alt="nmewada01" /></p>
 
