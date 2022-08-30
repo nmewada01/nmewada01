@@ -65,7 +65,7 @@
 <a href="https://www.hackerrank.com/nareshmewada014" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 
 
-<p dir="auto"><a href="https://github.com/ships97" align="left"><img src="https://camo.githubusercontent.com/c1eeeffa4a1e15ef72c4e01f0726a94718d5dcd4fae1ea28b8208c21ea536dc1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686970733937266c616e67735f636f756e743d3130267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d74727565266c6f63616c653d656e26637573746f6d5f7469746c653d546f70253230254c616e677561676573" alt="Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ships97&amp;langs_count=10&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages" style="max-width: 100%;"></a></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmewada01&show_icons=true&locale=en&layout=compact" alt="nmewada01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmewada01&show_icons=true&locale=en" alt="nmewada01" /></p>
