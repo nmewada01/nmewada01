@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naresh Rajput</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sehore ,Madhya Pradesh (India)</h3>
 
-<img src="https://camo.githubusercontent.com/bad73067be0171aab9e958e844f2fffe8685814c10a3245aa363d31f9b649922/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" data-canonical-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://camo.githubusercontent.com/bad73067be0171aab9e958e844f2fffe8685814c10a3245aa363d31f9b649922/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" data-canonical-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" max-width="100%" data-target="animated-image.originalImage">
 
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/713a036acdf4c2ff01667ba3d94d836acc5c83c7573dee58ad953df194739c38/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68697474706174656c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/713a036acdf4c2ff01667ba3d94d836acc5c83c7573dee58ad953df194739c38/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68697474706174656c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="hittpatel" data-canonical-src="https://komarev.com/ghpvc/?username=nmewada01&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
