@@ -17,7 +17,6 @@
 - 📫 How to reach me **nareshmewada014@gmail.com**
 
 
-![20200917_210933](https://user-images.githubusercontent.com/101567054/187411218-a05f4bec-c329-46bc-a1e6-3e805b8fe51a.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
