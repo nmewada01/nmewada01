@@ -86,9 +86,9 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmewada01&show_icons=true&locale=en" alt="nmewada01" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=nmewada01" alt="nmewada01" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=nmewada01" alt="nmewada01" /></p> -->
 
-
+<p dir="auto"><a href="https://github.com/nmewada01/"><img src="https://camo.githubusercontent.com/bbb3bff3aa24db9abf03771dbe461c48f232f3bbba6a1ec9b7a7258a7f2d5bd0/68747470733a2f2f6769746875622d636f6e747269627574696f6e2d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d616e6b636f726e" alt="Contribution Stats" data-canonical-src="https://github-contribution-stats.vercel.app/api/?username=nmewada01" style="max-width: 100%;"></a></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmewada01&" alt="nmewada01" /></p>
 
