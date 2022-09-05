@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React, Redux**
 
-- 👨‍💻 All of my projects are available at [Link available soon](Link available soon)
+- 👨‍💻 All of my projects are available at <a href="https://naresh-rajput-portfolio.vercel.app/" alt="portfolio">here</a>
 
 - 💬 Ask me about **html,css,javascript,react**
 
