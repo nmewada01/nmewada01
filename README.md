@@ -84,7 +84,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmewada01&show_icons=true&locale=en&layout=compact" alt="nmewada01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmewada01&show_icons=true&locale=en" alt="nmewada01" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmewada01&show_icons=true&locale=en" alt="nmewada01" /></p> -->
+
+<p dir="auto"><a href="https://github.com/LordDashMe/github-contribution-stats/"><img src="https://camo.githubusercontent.com/6569565aae22b7d9d30f8386288157c9479db17f3edcd45240578f02f3c54446/68747470733a2f2f6769746875622d636f6e747269627574696f6e2d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d5072617468797573684e616972" alt="Contribution Stats" data-canonical-src="https://github-contribution-stats.vercel.app/api/?username=nmewada01" style="max-width: 100%;"></a></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmewada01&" alt="nmewada01" /></p>
 
