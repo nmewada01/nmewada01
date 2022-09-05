@@ -89,6 +89,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmewada01&" alt="nmewada01" /></p>
 
 
+![Naresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmewada01&theme=dark&show_icons=true)
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=nmewada01&theme=react-dark&hide_border=true&area=true)
 
 
