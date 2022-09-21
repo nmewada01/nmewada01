@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naresh Rajput</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Sehore ,Madhya Pradesh (India)</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from Sehore, India</h3>
 
 ![My thought](https://user-images.githubusercontent.com/101567054/187422494-268f41e7-60a6-4e3f-ab45-b18eb9133cf3.jpg)
 
