@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT **
+- 💬 Ask me about **Html, CSS, Javascript, React**
 
 - 📫 How to reach me **nareshmewada014@gmail.com**
 
