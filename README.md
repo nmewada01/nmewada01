@@ -1,5 +1,5 @@
 <h1 align="center">Namaste:pray:, I'm Naresh Rajput</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Sehore, India :triangular_flag_on_post:</h3>
+<h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.</h3>
 
 ![My thought](https://user-images.githubusercontent.com/101567054/187422494-268f41e7-60a6-4e3f-ab45-b18eb9133cf3.jpg)
 
