@@ -95,7 +95,7 @@
 
 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=nmewada01&theme=react-dark&hide_border=true&area=true)
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=nmewada01&theme=tokyo-night)
 
 
 
