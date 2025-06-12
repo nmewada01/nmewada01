@@ -74,6 +74,6 @@
 
 ### 📍 Resume
 
-📄 [View My Resume (Google Drive)](https://drive.google.com/file/d/1HLRBXLVX6gu1a1KH-ifp5evbXA-w3Isa/view?usp=drivesdk)
+📄 [View My Resume (Google Drive)](https://drive.google.com/file/d/1z0ZuefmwlqaiFjXwjTurlqQHiLWgkLTA/view?usp=sharing)
 
 ---
